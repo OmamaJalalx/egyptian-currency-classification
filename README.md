@@ -62,7 +62,7 @@ A custom CNN with 4 convolutional blocks followed by fully connected layers:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/egyptian-currency-classification.git
+git clone https://github.com/OmamaJalalx/egyptian-currency-classification.git
 cd egyptian-currency-classification
 ```
 
